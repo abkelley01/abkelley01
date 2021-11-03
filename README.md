@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abkelley01
+- 👋 Hi, I’m Allison
 - 👀 I’m interested in front-end development. 
 - 🌱 I’m currently learning everything I can about software development from Maryville University.
 - 💞️ I’m looking to collaborate on new projects that will further my understanding of web development.
